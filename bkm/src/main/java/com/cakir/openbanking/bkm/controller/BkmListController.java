@@ -11,11 +11,11 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/bkm-list")
-public class BkmController {
+public class BkmListController {
 
     private final BankEntityService bankEntityService;
 
-    public BkmController(BankEntityService bankEntityService) {
+    public BkmListController(BankEntityService bankEntityService) {
         this.bankEntityService = bankEntityService;
     }
 
