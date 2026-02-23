@@ -19,12 +19,14 @@ public class BkmListController {
         this.bankEntityService = bankEntityService;
     }
 
+    // sadece yös destekleyen kurumlar bu endpoint'e erişebilir. YOS : Müşterisinin bir başka bankadaki verisini kendi app'inde gösterebilen kurumlardır.
     @GetMapping("/hhs")
     public List<BankDTO> getYosList() {
 
         return bankEntityService.getBanksFromType(BankType.HHS);
     }
 
+    // sadece hhs destekleyen kurumalr bu endpoint'e erişebilir. HHS : Müşterisinin hesabını / kartını - rızası dahilinde - bir başka kurum ile paylaşabilen kurumlardır.
     @GetMapping("/yos")
     public List<BankDTO> getHhsList() {
         return bankEntityService.getBanksFromType(BankType.YOS);
