@@ -12,3 +12,6 @@ Bölüm 2 <br>
 
 Bölüm 3 <br>
 [ÖHVPS BKM API Standartları ve Hesap Servisleri](https://www.youtube.com/watch?v=GEP8Mbp8ItE&list=PL4jLDL_TWKcBFVS_Zs1FzdwIvd0gVqYL2)
+
+Bölüm 4 <br>
+[ÖHVPS HHS API Standartları ve Hesap Servisleri](https://www.youtube.com/watch?v=XM5YnH-PReY&list=PL4jLDL_TWKcBFVS_Zs1FzdwIvd0gVqYL2)

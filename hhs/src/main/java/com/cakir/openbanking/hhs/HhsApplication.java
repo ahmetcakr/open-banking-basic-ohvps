@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.cakir.openbanking.*")
+@ComponentScan(basePackages = "com.cakir.openbanking.hhs.*")
 public class HhsApplication {
 
 	public static void main(String[] args) {
