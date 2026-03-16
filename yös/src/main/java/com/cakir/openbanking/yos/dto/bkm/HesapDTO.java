@@ -1,4 +1,4 @@
-package com.cakir.openbanking.bkm.dto;
+package com.cakir.openbanking.yos.dto.bkm;
 
 public class HesapDTO {
     private Boolean hspDrm;

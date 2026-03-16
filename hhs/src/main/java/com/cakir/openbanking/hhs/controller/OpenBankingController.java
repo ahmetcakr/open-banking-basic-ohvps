@@ -36,8 +36,8 @@ public class OpenBankingController {
 
         if (erisimBelirteci.equals("ACCESSTOKENabcd1234")){
             return List.of(
-              new HesapDTO("A", "TR1000000", "AHMET ÇAKIR", "TRY"),
-              new HesapDTO("P", "TR2000000", "AHMET ÇAKIR", "USD")
+              new HesapDTO(true, "TR1000000", "AHMET ÇAKIR", "TRY"),
+              new HesapDTO(false, "TR2000000", "AHMET ÇAKIR", "USD")
             );
         }
 
