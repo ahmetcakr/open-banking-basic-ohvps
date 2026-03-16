@@ -15,3 +15,8 @@ Bölüm 3 <br>
 
 Bölüm 4 <br>
 [ÖHVPS HHS API Standartları ve Hesap Servisleri](https://www.youtube.com/watch?v=XM5YnH-PReY&list=PL4jLDL_TWKcBFVS_Zs1FzdwIvd0gVqYL2)
+
+Bölüm 5 <br>
+[ÖHVPS YÖS API Standartları, Banka hesaplarım tek ekranda](https://www.youtube.com/watch?v=jTkRuxn8Lys&list=PL4jLDL_TWKcBFVS_Zs1FzdwIvd0gVqYL2)
+
+
